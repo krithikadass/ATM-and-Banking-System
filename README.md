@@ -1,35 +1,24 @@
 # ATM-AND-BANKING-SYSTEM
-# Reg No:
-# Name:
-# Date:
+# Reg No:212224040045
+# Name:Baradhan.L
+# Date:16.09.2025
 
 
 # AIM:
 To develop the ATM and Banking System using Star UML
 
 # Problem Statement:
-1.Banks need to provide fast, secure, and self-service access to basic banking functionalities.
+1. Exam Registration System is used in the effective registration of exams to all of the applicants. This system adopts a comprehensive approach to minimize the manual work and schedule resources, time in a coherent manner.
 
-2.Manual banking for simple tasks (like cash withdrawal or balance inquiry) leads to long queues and inefficient use of bank staff.
+2. The core of the system is to get the online registration form (with details such as name, address etc.,) filled by the applicant whose details are later verified by the Administrator.
 
-3.There is a lack of consistent and secure user authentication in some older systems.
+3. Then the applicant needs to pay the examination fees by the interface provided in the Exam Registration system. After the end of the due date for submitting the form, the information is in turn forwarded to the administrator's view.
 
-4.Existing ATM systems may not be user-friendly or may lack multilingual support.
+4. The applications are then processed ased on the information given by the applicant, and any forfeiting identified can make the applicant liable to penalty as per the law.
 
-5.Customers require 24/7 access to basic banking services without depending on bank working hours.
+5. The administrator after successful confirmation, initiates the process to generate the hall tickets for the applicants. After successful generation of hall tickets, the system delivers the hall ticket to the applicants. The applicants can download the hall tickets finally in the end.
 
-6.A reliable ATM software system is needed to:
-
-7.Allow users to securely access their accounts using ATM cards and PIN.
-
-8.Enable operations like cash withdrawal, balance inquiry, mini statement printing, and PIN change.
-
-9.Ensure real-time processing and data consistency with the core banking system.
-
-10.Provide a simple and intuitive user interface.
-
-
-# UML DIAGRAMS
+UML DIAGRAMS
 
 # USE CASE DIAGRAM
 
@@ -48,6 +37,7 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
+![Screenshot 2025-05-14 100332](https://github.com/user-attachments/assets/96876375-c5bc-4627-baa3-da8657269330)
 
 
 
@@ -68,6 +58,8 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+![Screenshot 2025-05-14 101052](https://github.com/user-attachments/assets/1ea252bd-2679-43f3-9767-2c7e53b4b502)
+
 
 
 # COMMUNICTION DIAGRAM:
@@ -76,8 +68,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
-
-
+![Screenshot 2025-05-14 110643](https://github.com/user-attachments/assets/4ebb7518-63b0-4411-a292-24512e64e56d)
 
 # PACKAGE DIAGRAM:
 
@@ -87,6 +78,7 @@ organization of the layered architecture within any UML classifier, such as a so
 
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
+![Screenshot 2025-05-14 111243](https://github.com/user-attachments/assets/507b4b02-e71d-4829-bbaa-d6bedeed3b82)
 
 
 
@@ -106,6 +98,7 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
+![Screenshot 2025-05-14 112929](https://github.com/user-attachments/assets/74ece923-800d-4ab3-bbdd-d164d1b11940)
 
 
 
@@ -116,6 +109,7 @@ A sequence diagram is a type of intera jon diagram because it describes how- and
 
 a new system or to document an existing process. Sequence diagrams are sometimes known as event diagrams or event scenarios.
 
+![Screenshot 2025-05-14 120150](https://github.com/user-attachments/assets/864437d0-d049-4973-aa46-88f4a4a24641)
 
 # BENEFITS OF SEQUENCE DIAGRAM
 
